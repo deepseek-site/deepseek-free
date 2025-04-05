@@ -1,6 +1,6 @@
 # DeepSeek 官网入口、Deep Seek 下载使用、API 调用和本地部署攻略 | 最新使用指南~ 【2025年4月更新】
 
-> 更新日期：2025/04/05        
+> 更新日期：2025/04/05         
 
 轻松使用 **[DeepSeek 网页版](https://chat.yixiaai.com)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。   
 本指南提供最全面的 **DeepSeek 使用指南**，包含 [**DeepSeek 官网入口**](https://chat.lanjing.pro)、[**DeepSeek官网平替**](https://chat.yixiaai.com)、[**DeepSeek 网页版**](https://chat.lanjing.pro)、[**deep seek 下载使用**](https://chat.yixiaai.com)、**API 调用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
